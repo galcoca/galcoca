@@ -111,12 +111,12 @@
 <h3>💻 GitHub Profile Stats</h3>
 
 <style>
-  td[valign="top"]:first-child {
+  table tr td:first-child {
     width: 57%;
     border: none;
   }
 
-  td[valign="top"]:nth-child(2) {
+  table tr td:nth-child(2) {
     width: 43%;
     border: none;
   }
