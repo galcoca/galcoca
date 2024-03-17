@@ -109,13 +109,26 @@
     <img alt="Galcoca's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=galcoca&theme=radical&hide_border=true" height="auto" width="100%"/>
 </p>
 <h3>💻 GitHub Profile Stats</h3>
+
+<style>
+  td:first-child {
+    width: 57%;
+    border: none;
+  }
+
+  td:nth-child(2) {
+    width: 43%;
+    border: none;
+  }
+</style>
+
 <p>
   <table>
     <tr>
-      <td valign="top" style="width:57%; border:none;">
+      <td valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=galcoca&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="auto"/>
       </td>
-      <td valign="top" style="width:43%; border:none;">
+      <td valign="top">
         <img alt="Galcoca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galcoca&theme=radical&show_icons=true&hide_border=true&layout=compact" height="auto"/>
       </td>
     </tr>
