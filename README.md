@@ -79,7 +79,7 @@
     <a href="#"><img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white"/></a>
     <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"/></a>
     <a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF"/></a>
-    <a href="#"><img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge"/></a>
+    <a href="#"><img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white"/></a>
     <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black"/></a>
     <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/web3.js-F16822?logo=web3.js&logoColor=white"/></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
