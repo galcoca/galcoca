@@ -112,14 +112,8 @@
 
 <p>
   <table>
-    <tr>
-      <td valign="top" style="width: 57%; border: none !important;">
-        <img src="https://github-readme-stats.vercel.app/api?username=galcoca&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="auto"/>
-      </td>
-      <td valign="top" style="width: 43%; border: none !important;">
-        <img alt="Galcoca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galcoca&theme=radical&show_icons=true&hide_border=true&layout=compact" height="auto"/>
-      </td>
-    </tr>
+    <img src="https://github-readme-stats.vercel.app/api?username=galcoca&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="auto"/>
+    <img alt="Galcoca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galcoca&theme=radical&show_icons=true&hide_border=true&layout=compact" height="auto"/>
   </table>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
