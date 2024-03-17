@@ -110,11 +110,9 @@
 </p>
 <h3>💻 GitHub Profile Stats</h3>
 
-<p>
-  <table>
-    <img src="https://github-readme-stats.vercel.app/api?username=galcoca&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="auto"/>
-    <img alt="Galcoca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galcoca&theme=radical&show_icons=true&hide_border=true&layout=compact" height="auto"/>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=galcoca&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="auto"/>
+  <img alt="Galcoca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galcoca&theme=radical&show_icons=true&hide_border=true&layout=compact" height="auto"/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 </p>
