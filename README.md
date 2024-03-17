@@ -6,7 +6,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=1DF7C9&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi%2C+I'm+Gabriel+Corredor;Systems+Engineer;Full-Stack+Engineer;Experienced+UI%2FUX;%2B7+Years+of+Experience+in+IT+Companies" alt="Typing SVG" /></a>
 </p>
 
-<!-- Social icons section -->
 <p align="center">
   <a href="https://www.linkedin.com/in/galcoca/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -15,8 +14,7 @@
   <a href="https://discordapp.com/users/714943703562584166" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./assets/images/discord.png"/></a>
 </p>
 <br/>
-<h2>🛠️ My Favorite Tools</h2>
-<h3>👨‍💻 Programming and Markup Languages</h3>
+<h2>👨‍💻 Programming and Markup Languages</h2>
 <p>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
@@ -42,10 +40,10 @@
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
-<h3>🧰 Frameworks and Libraries</h3>
+<h2>🧰 Frameworks and Libraries</h2>
 
 <p>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
+    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
     <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
@@ -63,7 +61,7 @@
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
 </p>
 
-<h3>🗄️ Databases and Cloud Hosting</h3>
+<h2>🗄️ Databases and Cloud Hosting</h2>
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -79,7 +77,7 @@
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
 </p>
 
-<h3>💻 Software and Tools</h3>
+<h2>💻 Software and Tools</h2>
 
 <p>
     <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
