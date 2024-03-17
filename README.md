@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./assets/css/styles.css">
-
 <p align="center">
   <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
@@ -115,10 +113,10 @@
 <p>
   <table>
     <tr>
-      <td valign="top">
+      <td valign="top" style="width: 57%; border: none !important;">
         <img src="https://github-readme-stats.vercel.app/api?username=galcoca&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="auto"/>
       </td>
-      <td valign="top">
+      <td valign="top" style="width: 43%; border: none !important;">
         <img alt="Galcoca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galcoca&theme=radical&show_icons=true&hide_border=true&layout=compact" height="auto"/>
       </td>
     </tr>
