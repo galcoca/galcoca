@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./assets/css/styles.css">
+
 <p align="center">
   <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
@@ -109,18 +111,6 @@
     <img alt="Galcoca's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=galcoca&theme=radical&hide_border=true" height="auto" width="100%"/>
 </p>
 <h3>💻 GitHub Profile Stats</h3>
-
-<style>
-  .markdown-body table tr td:first-child {
-    width: 57% !important;
-    border: none !important;
-  }
-
-  .markdown-body table tr td:nth-child(2) {
-    width: 43% !important;
-    border: none !important;
-  }
-</style>
 
 <p>
   <table>
