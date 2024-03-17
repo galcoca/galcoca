@@ -112,10 +112,10 @@
 <p>
   <table>
     <tr>
-      <td valign="top">
+      <td valign="top" style="width:57%; border:none;">
         <img src="https://github-readme-stats.vercel.app/api?username=galcoca&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="auto"/>
       </td>
-      <td valign="top">
+      <td valign="top" style="width:43%; border:none;">
         <img alt="Galcoca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galcoca&theme=radical&show_icons=true&hide_border=true&layout=compact" height="auto"/>
       </td>
     </tr>
