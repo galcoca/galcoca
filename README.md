@@ -155,7 +155,7 @@
 <h2>📊 Stats and Activity</h2>
 <h3>🔥 Streak Stats</h3>
 <p align="center">
-    <img alt="Galcoca's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=galcoca&theme=radical&hide_border=true" height="auto" width="100%"/>
+    <img alt="Galcoca's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=galcoca&theme=radical&hide_border=true&mode=weekly" height="auto" width="100%"/>
 </p>
 <h3>💻 GitHub Profile Stats</h3>
 
