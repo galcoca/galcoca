@@ -3,17 +3,62 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=1DF7C9&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi%2C+I'm+Gabriel+Corredor;Systems+Engineer;Full-Stack+Engineer;Experienced+UI%2FUX;%2B7+Years+of+Experience+in+IT+Companies" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=1DF7C9&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi%2C+I'm+Gabriel+Corredor;Senior+Full-Stack+Developer;7%2B+Years+International+Experience;AWS+%7C+TypeScript+%7C+Svelte+Specialist;Team+Leader+%26+Mentor" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/galcoca/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/images/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://drive.google.com/file/d/1-05RXPhaKyONviFDiZH9Fe3iHFiVH9S-/view"><img width="32px" alt="PDF" title="PDF" src="./assets/images/pdf.png"/></a>
+  <a href="https://drive.google.com/file/d/1Z2SyGfdCVp5jiPVPoobHB4foRUxS9JjH/view?usp=sharing"><img width="32px" alt="PDF" title="PDF" src="./assets/images/pdf.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discordapp.com/users/714943703562584166" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./assets/images/discord.png"/></a>
 </p>
+
+<p align="center">
+  📍 Bogotá, Colombia 🇨🇴 | 💼 Senior Full-Stack Developer @ MVMNT | 🌍 International Experience
+</p>
+
+## 🚀 About Me
+
+Senior Full-Stack Developer with 7+ years building scalable web applications across international markets.
+
+**Specializing in:** Modern web technologies, cloud architecture, and team leadership  
+**Experience:** E-commerce platforms, travel tech, WordPress ecosystems, and AWS serverless solutions  
+**Leadership:** Managing international teams, code reviews, and technical mentoring
+
 <br/>
+
+## ⚡ Current Focus & Expertise
+
+<p>
+    <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+    <a href="#"><img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=awslambda&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
+    <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"></a>
+</p>
+
+<h2>📊 Stats and Activity</h2>
+<h3>🔥 Streak Stats</h3>
+<p align="center">
+    <img alt="Galcoca's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=galcoca&theme=radical&hide_border=true&mode=weekly" height="auto" width="100%"/>
+</p>
+<h3>💻 GitHub Profile Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=galcoca&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="56%" height="auto"/>
+  <img alt="Galcoca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galcoca&theme=radical&show_icons=true&hide_border=true&layout=compact" width="43%" height="auto"/>
+</p>
+<p>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+</p>
+<h3>📈 GitHub Activity</h3>
+<p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Galcoca's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=galcoca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</p>
+
 <h2>👨‍💻 Programming and Markup Languages</h2>
 <p>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -21,18 +66,18 @@
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%Ago"><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%Ago"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"></a>
+    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Agraphql"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Amarkdown"><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?logo=lua&logoColor=white"></a>
+    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Alua"><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?logo=lua&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Ar"><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white"></a>
+    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Asvg"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?logo=swift&logoColor=white"></a>
+    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?logo=swift&logoColor=white"></a>
     <a href="https://github.com/search?q=owner%3Agalcoca%20language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
 </p>
 
@@ -150,24 +195,4 @@
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white"/></a>
     <a href="#"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?logo=Udemy&logoColor=white"/></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
-<br/>
-<h2>📊 Stats and Activity</h2>
-<h3>🔥 Streak Stats</h3>
-<p align="center">
-    <img alt="Galcoca's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=galcoca&theme=radical&hide_border=true&mode=weekly" height="auto" width="100%"/>
-</p>
-<h3>💻 GitHub Profile Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galcoca&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="56%" height="auto"/>
-  <img alt="Galcoca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galcoca&theme=radical&show_icons=true&hide_border=true&layout=compact" width="43%" height="auto"/>
-</p>
-<p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-</p>
-<h3>📈 GitHub Activity</h3>
-<p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Galcoca's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=galcoca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
