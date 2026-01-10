@@ -27,29 +27,33 @@ Senior Full-Stack Developer specialized in modern web technologies, cloud archit
 <div align="center">
 
 #### Overview
+
 <a href="https://galcocastats.vercel.app">
-  <img src="https://galcocastats.vercel.app/api/overview?theme=neon" alt="GitHub Overview" width="100%" />
+  <img src="https://galcocastats.vercel.app/api/overview?theme=tokyonight" alt="GitHub Overview" width="100%" />
 </a>
 
 <br/>
 
 #### Tech & Skills
+
 <a href="https://galcocastats.vercel.app">
-  <img src="https://galcocastats.vercel.app/api/tech-skills?theme=neon" alt="Tech & Skills" width="100%" />
+  <img src="https://galcocastats.vercel.app/api/tech-skills?theme=tokyonight" alt="Tech & Skills" width="100%" />
 </a>
 
 <br/>
 
 #### Activity
+
 <a href="https://galcocastats.vercel.app">
-  <img src="https://galcocastats.vercel.app/api/activity?theme=neon" alt="Activity Stats" width="100%" />
+  <img src="https://galcocastats.vercel.app/api/activity?theme=tokyonight" alt="Activity Stats" width="100%" />
 </a>
 
 <br/>
 
 #### Developer Profile
+
 <a href="https://galcocastats.vercel.app">
-  <img src="https://galcocastats.vercel.app/api/profile?theme=neon" alt="Developer Profile" width="100%" />
+  <img src="https://galcocastats.vercel.app/api/profile?theme=tokyonight" alt="Developer Profile" width="100%" />
 </a>
 
 </div>
