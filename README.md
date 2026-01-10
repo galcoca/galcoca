@@ -1,198 +1,209 @@
-<p align="center">
-  <h1 align="center">Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=1DF7C9&center=true&vCenter=true&random=false&width=600&height=80&lines=Hi%2C+I'm+Gabriel+Corredor;Senior+Full-Stack+Developer;7%2B+Years+International+Experience;AWS+%7C+TypeScript+%7C+Svelte+Specialist;Team+Leader+%26+Mentor" alt="Typing SVG" /></a>
-</p>
+# Gabriel Corredor
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/galcoca/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="./assets/images/linkedin.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://drive.google.com/file/d/1Z2SyGfdCVp5jiPVPoobHB4foRUxS9JjH/view?usp=sharing"><img width="32px" alt="PDF" title="PDF" src="./assets/images/pdf.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discordapp.com/users/714943703562584166" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="./assets/images/discord.png"/></a>
-</p>
+### Senior Full-Stack Developer
 
-<p align="center">
-  📍 Bogotá, Colombia 🇨🇴 | 💼 Senior Full-Stack Developer @ MVMNT | 🌍 International Experience
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=1DF7C9&center=true&vCenter=true&repeat=true&width=500&lines=7%2B+Years+International+Experience;AWS+%7C+TypeScript+%7C+Svelte+Specialist;Team+Leader+%26+Technical+Mentor)](https://git.io/typing-svg)
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galcoca/)
+[![Resume](https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1Z2SyGfdCVp5jiPVPoobHB4foRUxS9JjH/view?usp=sharing)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/714943703562584166)
 
-Senior Full-Stack Developer with 7+ years building scalable web applications across international markets.
+**Bogotá, Colombia** · Building scalable web applications across international markets
 
-**Specializing in:** Modern web technologies, cloud architecture, and team leadership  
-**Experience:** E-commerce platforms, travel tech, WordPress ecosystems, and AWS serverless solutions  
-**Leadership:** Managing international teams, code reviews, and technical mentoring
+</div>
+
+---
+
+## About
+
+Senior Full-Stack Developer specialized in modern web technologies, cloud architecture, and technical leadership. Experienced in building e-commerce platforms, trucking logistics systems, and fintech solutions with AWS and Azure serverless architectures. Currently serving as Tech Lead and Senior Full-Stack Developer.
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+#### Overview
+<a href="https://galcocastats.vercel.app">
+  <img src="https://galcocastats.vercel.app/api/overview?theme=neon" alt="GitHub Overview" width="100%" />
+</a>
 
 <br/>
 
-## ⚡ Current Focus & Expertise
+#### Tech & Skills
+<a href="https://galcocastats.vercel.app">
+  <img src="https://galcocastats.vercel.app/api/tech-skills?theme=neon" alt="Tech & Skills" width="100%" />
+</a>
 
-<p>
-    <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white"></a>
-    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-    <a href="#"><img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900.svg?logo=awslambda&logoColor=white"></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-    <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"></a>
-</p>
-
-<h2>📊 Stats and Activity</h2>
-<h3>🔥 Streak Stats</h3>
-<p align="center">
-    <img alt="Galcoca's Streak" src="https://github-readme-streak-stats.herokuapp.com?user=galcoca&theme=radical&hide_border=true&mode=weekly" height="auto" width="100%"/>
-</p>
-<h3>💻 GitHub Profile Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galcoca&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="56%" height="auto"/>
-  <img alt="Galcoca's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galcoca&theme=radical&show_icons=true&hide_border=true&layout=compact" width="43%" height="auto"/>
-</p>
-<p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
-</p>
-<h3>📈 GitHub Activity</h3>
-<p>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Galcoca's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=galcoca&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+#### Activity
+<a href="https://galcocastats.vercel.app">
+  <img src="https://galcocastats.vercel.app/api/activity?theme=neon" alt="Activity Stats" width="100%" />
+</a>
+
+<br/>
+
+#### Developer Profile
+<a href="https://galcocastats.vercel.app">
+  <img src="https://galcocastats.vercel.app/api/profile?theme=neon" alt="Developer Profile" width="100%" />
+</a>
+
+</div>
+
+---
+
+## Technical Expertise
+
+### Core Stack
+
+<p align="center">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Svelte" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img alt="tRPC" src="https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white"/>
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<h2>👨‍💻 Programming and Markup Languages</h2>
-<p>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Ags"><img alt="Google Apps Script" src="https://custom-icon-badges.demolab.com/badge/Google%20Apps%20Script-02569B.svg?logo=gs&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%Ago"><img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Agraphql"><img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Alua"><img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?logo=lua&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Aruby"><img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?logo=ruby&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Asvg"><img alt="SVG+XML" src="https://img.shields.io/badge/SVG%2BXML-e0982c.svg?logo=svg&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/swift-F54A2A?logo=swift&logoColor=white"></a>
-    <a href="https://github.com/search?q=owner%3Agalcoca%20language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-</p>
+### Languages
 
-<h2>🧰 Frameworks and Libraries</h2>
+<table>
+<tr>
+<td align="center" width="50%">
 
-<p>
-    <a href="#"><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white"/></a>
-    <a href="#"><img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Chart.js" src="https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white"/></a>
-    <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a>
-    <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white"/></a>
-    <a href="#"><img alt="DjangoREST" src="https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray"/></a>
-    <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
-    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white"/></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="Ionic" src="https://img.shields.io/badge/Ionic-%233880FF.svg?logo=Ionic&logoColor=white"/></a>
-    <a href="#"><img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white"/></a>
-    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-    <a href="#"><img alt="JWT" src="https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens"/></a>
-    <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/></a>
-    <a href="#"><img alt="Less" src="https://img.shields.io/badge/less-2B4C80?logo=less&logoColor=white"/></a>
-    <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white"></a>
-    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white"/></a>
-    <a href="#"><img alt="Next JS" src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white"/></a>
-    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="Nodemon" src="https://img.shields.io/badge/NODEMON-%23323330.svg?logo=nodemon&logoColor=%BBDEAD"/></a>
-    <a href="#"><img alt="NPM" src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white"/></a>
-    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?logo=opengl"/></a>
-    <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
-    <a href="#"><img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC.svg?logo=pytest&logoColor=white"></a>
-    <a href="#"><img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white"/></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
-    <a href="#"><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB"/></a>
-    <a href="#"><img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white"/></a>
-    <a href="#"><img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white"/></a>
-    <a href="#"><img alt="Semantic UI React" src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?logo=SemanticUIReact&logoColor=white"/></a>
-    <a href="#"><img alt="Slim" src="https://custom-icon-badges.demolab.com/badge/Slim-74a045.svg?logo=slim-php"></a>
-    <a href="#"><img alt="Socket.io" src="https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101"/></a>
-    <a href="#"><img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white"/></a>
-    <a href="#"><img alt="Symfony" src="https://img.shields.io/badge/Symfony-111111.svg?logo=symfony&logoColor=white"></a>
-    <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/></a>
-    <a href="#"><img alt="Vite" src="https://img.shields.io/badge/vite-%23646CFF.svg?logo=vite&logoColor=white"/></a>
-    <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D"/></a>
-    <a href="#"><img alt="Vuetify" src="https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=AEDDFF"/></a>
-    <a href="#"><img alt="WebGL" src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white"/></a>
-    <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black"/></a>
-    <a href="#"><img alt="Web3.js" src="https://img.shields.io/badge/web3.js-F16822?logo=web3.js&logoColor=white"/></a>
-    <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
-</p>
+**Primary**
 
-<h2>🗄️ Databases</h2>
-<p>
-    <a href="#"><img alt="AmazonDynamoDB" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?logo=Amazon%20DynamoDB&logoColor=white"/></a>
-    <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/firebase-a08021?logo=firebase&logoColor=ffcd34"/></a>
-    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/></a>
-    <a href="#"><img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white"/></a>
-    <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white"/></a>
-    <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white"/></a>
-    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-    <a href="#"><img alt="Single Store" src="https://img.shields.io/badge/Single%20Store-AA00FF?logo=singlestore&logoColor=white"/></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="#"><img alt="Teradata" src="https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=white"/></a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-<h2>☁️ Cloud</h2>
-<p>
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white"/></a>
-    <a href="#"><img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white"/></a>
-    <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white"/></a>
-    <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white"/></a>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="Render" src="https://img.shields.io/badge/Render-00979D.svg?logo=render&logoColor=white"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-</p>
+</td>
+<td align="center" width="50%">
 
-<h2>🥅 Other</h2>
-<p>
-    <a href="#"><img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white"/></a>
-    <a href="#"><img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black"/></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white"/></a>
-    <a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white"/></a>
-    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white"/></a>
-    <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white"/></a>
-    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
-    <a href="#"><img alt="Power Bi" src="https://img.shields.io/badge/power_bi-F2C811?logo=powerbi&logoColor=black"/></a>
-    <a href="#"><img alt="Terraform" src="https://img.shields.io/badge/terraform-%235835CC.svg?logo=terraform&logoColor=white"/></a>
-</p>
+**Secondary**
 
-<h2>💻 Software and Tools</h2>
-<p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Audacity" src="https://img.shields.io/badge/-Audacity-0000CC?logo=audacity&logoColor=white"></a>
-    <a href="#"><img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?logo=bitbucket&logoColor=white"/></a>
-    <a href="#"><img alt="Bitwarden" src="https://img.shields.io/badge/-Bitwarden-175DDC?logo=bitwarden&logoColor=white"></a>
-    <a href="#"><img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?logo=confluence&logoColor=white"/></a>
-    <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white"/></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
-    <a href="#"><img alt="Inkscape" src="https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white"/></a>
-    <a href="#"><img alt="Meta" src="https://img.shields.io/badge/Meta-%230467DF.svg?logo=Meta&logoColor=white"/></a>
-    <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
-    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=Trello&logoColor=white"/></a>
-    <a href="#"><img alt="Udemy" src="https://img.shields.io/badge/Udemy-A435F0?logo=Udemy&logoColor=white"/></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-</p>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+### Frontend
+
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=flat-square&logo=trpc&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Mobile & Cross-Platform
+
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### AI & Automation
+
+![Claude](https://img.shields.io/badge/Claude-CC9B7A?style=flat-square&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+
+### Tools & Practices
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+I'm always interested in discussing new opportunities, technical challenges, or collaboration on innovative projects.
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galcoca@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/galcoca/)
+
+---
+
+<sub>Stats powered by <a href="https://galcocastats.vercel.app">galcocastats</a> — self-hosted GitHub analytics</sub>
+
+</div>
